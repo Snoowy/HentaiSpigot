@@ -1,7 +1,7 @@
 [website]: https://exylcraft.com
 [discord]: https://discord.gg/exylcraft
 
-<img src="https://i.imgur.com/ypJut9x.png" alt="petal_logo" width="80" height="80">
+<img src="https://i.kym-cdn.com/photos/images/original/001/431/488/a4f.jpg" alt="petal_logo" width="80" height="80">
 
 # Hentai spigot Performance Minecraft JAR
 
